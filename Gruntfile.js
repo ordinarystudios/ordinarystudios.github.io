@@ -1,4 +1,4 @@
-// Generated on 2015-05-11 using
+// Generated on 2015-04-24 using
 // generator-webapp 0.5.1
 'use strict';
 
@@ -152,9 +152,8 @@ module.exports = function (grunt) {
     // Compiles Sass to CSS and generates necessary files if requested
     sass: {
       options: {
-        sourceMap: true,
-        includePaths: ['bower_components']
-        },
+        loadPath: 'bower_components'
+      },
       dist: {
         files: [{
           expand: true,
