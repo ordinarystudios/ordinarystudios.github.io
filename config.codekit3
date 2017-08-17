@@ -27,12 +27,6 @@
 		"oAP": "\/.gitattributes",
 		"oF": 0
 		},
-	"\/.gitignore": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/.gitignore",
-		"oF": 0
-		},
 	"\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -407,6 +401,16 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/styles\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/styles\/main-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/styles\/main.scss": {
 		"aP": 0,
