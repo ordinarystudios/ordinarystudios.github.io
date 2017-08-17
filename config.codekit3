@@ -27,6 +27,12 @@
 		"oAP": "\/.gitattributes",
 		"oF": 0
 		},
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/bower.json": {
 		"ft": 524288,
 		"oA": 1,
